@@ -1,0 +1,23 @@
+
+body {
+    background-color: lightblue; 
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
+
+
+h1 {
+    color: #0078d4; 
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+hr {
+    border: 1px solid #0078d4;
+    margin: 20px 0;
+}
